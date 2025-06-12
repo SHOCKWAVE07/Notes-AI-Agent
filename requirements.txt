@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+whisper 
+langchain_google_genai
+dotenv
+langchain
